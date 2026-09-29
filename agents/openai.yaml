@@ -1,0 +1,4 @@
+interface:
+  display_name: "猫咪科普封面"
+  short_description: "延续暖色大标题与可爱猫咪风格，生成带中文标题的三比四内容封面"
+  default_prompt: "使用 $cat-care-cover 制作封面：猫咪牙结石与牙龈炎，专业科普与预防护理指南。"
